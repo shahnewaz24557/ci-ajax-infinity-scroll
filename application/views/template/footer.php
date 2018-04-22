@@ -1,9 +1,4 @@
-<!--
- * InfinityScroll v1.1 (https://github.com/shahnewaz24557/ci-ajax-infinity-scroll)
- * Copyright (c) 2018 Shahnewaz Ahmed
- * Licensed under MIT (https://github.com/shahnewaz24557/ci-ajax-infinity-scroll/blob/master/LICENSE)
- -->
-    
+
     <!-- jquery-3.2.1 -->
     <script src="<?php echo base_url(); ?>assets/jquery/jquery-3.2.1.min.js"></script>
     
