@@ -1,9 +1,3 @@
-<!--
- * InfinityScroll v1.1 (https://github.com/shahnewaz24557/ci-ajax-infinity-scroll)
- * Copyright (c) 2018 Shahnewaz Ahmed
- * Licensed under MIT (https://github.com/shahnewaz24557/ci-ajax-infinity-scroll/blob/master/LICENSE)
- -->
-
 <div class="container">
 	<h2 class="text-center">Codeigniter infinite scroll pagination</h2><br/>
 
